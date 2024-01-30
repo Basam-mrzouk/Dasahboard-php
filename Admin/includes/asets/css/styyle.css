@@ -1,0 +1,16 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #3a5876e6;
+}
+
+.box{
+    text-align: center;
+    background-color: #3a5876;
+    color: white;
+    padding: 70px 50px;
+    border-radius: 22px;
+}
+i{
+    color: rgb(6, 217, 217);
+}
